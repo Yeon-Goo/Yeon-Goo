@@ -1,5 +1,5 @@
 ## Hi there 👋
-로스트아크 기획자를 꿈꾸는 최연구입니다😊
+안녕하세요, 로스트아크 기획자를 꿈꾸는 최연구입니다😊
 
 <!--
 **Yeon-Goo/Yeon-Goo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
