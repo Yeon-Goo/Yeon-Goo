@@ -1,4 +1,5 @@
 ## Hi there 👋
+게임기획을 꿈꾸는 최연구입니다😊
 
 <!--
 **Yeon-Goo/Yeon-Goo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
