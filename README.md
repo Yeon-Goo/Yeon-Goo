@@ -3,7 +3,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요;로스트아크기획자를꿈꾸는최연구입니다)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;%EB%A1%9C%EC%8A%A4%ED%8A%B8%EC%95%84%ED%81%AC+%EA%B8%B0%ED%9A%8D%EC%9E%90%EB%A5%BC+%EA%BF%88%EA%BE%B8%EB%8A%94+%EC%B5%9C%EC%97%B0%EA%B5%AC%EC%9E%85%EB%8B%88%EB%8B%A4%F0%9F%98%8A)](https://git.io/typing-svg)
 <!--
 **Yeon-Goo/Yeon-Goo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
