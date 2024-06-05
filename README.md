@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=연구 개발실&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=연구%20개발실&fontSize=70&animation=fadeIn)
 
 안녕하세요, 로스트아크 기획자를 꿈꾸는 최연구입니다😊
 
@@ -8,7 +8,7 @@ Skills
 
 Engines
 
-[![Unity](https://img.shields.io/badge/Unity-EEEEEE?style=flat-square&logo=unity&logoColor=black)]() [![UE](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)]()
+[![Unity](https://img.shields.io/badge/Unity-DDDDDD?style=flat-square&logo=unity&logoColor=black)]() [![UE](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)]()
 
 Projects
 
