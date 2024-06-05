@@ -2,7 +2,7 @@
 안녕하세요, 로스트아크 기획자를 꿈꾸는 최연구입니다😊
 
 진행했던 개발 프로젝트로는 다음이 있고...
-
+[Project HAL](https://github.com/Yeon-Goo/Project-HAL)
 
 작성한 공략으로는 다음이 있고...
 
