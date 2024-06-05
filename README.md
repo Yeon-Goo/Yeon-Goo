@@ -5,22 +5,17 @@
 # Skills
 
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)]() [![C#](https://img.shields.io/badge/Csharp-512BD4?style=flat-square&logo=Csharp&logoColor=white)]() [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)]() 
-
-
-
-
-
-Engines
+# Engines
 
 [![Unity](https://img.shields.io/badge/Unity-DDDDDD?style=flat-square&logo=unity&logoColor=black)]() [![UE](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)]()
 
 
-Projects
+# Projects
 
 [Project HAL](https://github.com/Yeon-Goo/Project-HAL)
 
 
-Guides
+# Guides
 
 [기공사 신속 스탯 이해 / 1치명반지 연구글](https://www.inven.co.kr/board/lostark/5344/110658?p=4&my=chuchu)
 
@@ -28,7 +23,7 @@ Guides
 
 
 
-Contact
+# Contact
 
 [![email](https://img.shields.io/badge/-999999?style=flat-square&logo=gmail&logoColor=##EA4335)]() augustinodot@naver.com
 
