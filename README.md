@@ -7,7 +7,7 @@ Skills
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)]() [![C#](https://img.shields.io/badge/Csharp-512BD4?style=flat-square&logo=Csharp&logoColor=white)]() [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)]() 
 
 
-
+-nl-
 
 
 
