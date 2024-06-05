@@ -6,7 +6,7 @@
 
 작성한 공략으로는 다음이 있고...
 
-[기공사 1치명반지 빌드 연구글](https://www.inven.co.kr/board/lostark/5344/110658?p=4&my=chuchu)
+[기공사 1치명반지 빌드 연구글/신속 스탯 이해](https://www.inven.co.kr/board/lostark/5344/110658?p=4&my=chuchu)
 
 [모코코 전용 로스트아크의 전체 강화 흐름 정리](https://www.inven.co.kr/board/lostark/4821/98610)
 
