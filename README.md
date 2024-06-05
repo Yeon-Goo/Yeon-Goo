@@ -24,4 +24,8 @@ Blog
 
 [velog.io/Valkyrie](https://velog.io/@valkyrie)
 
+Contact
+[![email](https://img.shields.io/badge/augustinodot@naver.com-999999?style=flat-square&logo=gmail&logoColor=##EA4335)]()
+[![discord](https://img.shields.io/badge/valkyrie__9-000000?style=flat-square&logo=discord&logoColor=#5865F2)]()
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-Goo&show_icons=true&theme=radical) [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-Goo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
