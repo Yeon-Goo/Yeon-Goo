@@ -27,10 +27,6 @@ Guides
 [모코코 전용 로스트아크의 전체 강화 흐름 정리](https://www.inven.co.kr/board/lostark/4821/98610)
 
 
-Blog
-
-[velog.io/Valkyrie](https://velog.io/@valkyrie)
-
 
 Contact
 
