@@ -1,33 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yeon-Goo%20개발실&fontSize=70&animation=fadeIn)
 
 안녕하세요, 로스트아크 기획자를 꿈꾸는 최연구입니다😊
 
 
-
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)]() [![C#](https://img.shields.io/badge/Csharp-512BD4?style=flat-square&logo=Csharp&logoColor=white)]() [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)]()
 
 Projects
-
 [Project HAL](https://github.com/Yeon-Goo/Project-HAL)
 
 Guides
-
 [기공사 신속 스탯 이해 / 1치명반지 연구글](https://www.inven.co.kr/board/lostark/5344/110658?p=4&my=chuchu)
-
 [모코코 전용 로스트아크의 전체 강화 흐름 정리](https://www.inven.co.kr/board/lostark/4821/98610)
 
-
-
-<!--
-**Yeon-Goo/Yeon-Goo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-Goo&show_icons=true&theme=radical) [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-Goo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
