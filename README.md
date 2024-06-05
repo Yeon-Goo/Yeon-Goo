@@ -14,7 +14,7 @@
 [Project HAL](https://github.com/Yeon-Goo/Project-HAL)
 
 
-# 📃 Guides
+# 🎮 Guides
 
 [기공사 신속 스탯 이해 / 1치명반지 연구글](https://www.inven.co.kr/board/lostark/5344/110658?p=4&my=chuchu)
 
