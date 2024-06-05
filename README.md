@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=LOST ARK FAN%20render&fontSize=90)
 ## Hi there 👋
 안녕하세요, 로스트아크 기획자를 꿈꾸는 최연구입니다😊
 
