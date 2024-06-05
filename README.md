@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=연구개발실&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=연구 개발실&fontSize=40&animation=fadeIn)
 
 안녕하세요, 로스트아크 기획자를 꿈꾸는 최연구입니다😊
 
