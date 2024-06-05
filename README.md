@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LOST%20ARK-nl-최연구&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LOST%20ARK&fontSize=90&animation=fadeIn)
 
 안녕하세요, 로스트아크 기획자를 꿈꾸는 최연구입니다😊
 
