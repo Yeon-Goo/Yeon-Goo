@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=LOST%20ARK%20FAN&fontSize=90&animation=fadeIn)
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LOST%20ARK%&fontSize=90&animation=fadeIn)
+
 안녕하세요, 로스트아크 기획자를 꿈꾸는 최연구입니다😊
 
-진행했던 개발 프로젝트로는 다음이 있고...
+진행했던 개발 프로젝트들
+
 [Project HAL](https://github.com/Yeon-Goo/Project-HAL)
 
 작성한 공략으로는 다음이 있고...
