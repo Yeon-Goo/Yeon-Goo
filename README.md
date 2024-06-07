@@ -20,7 +20,7 @@
 
 [모코코 전용 로스트아크의 전체 강화 흐름 정리](https://www.inven.co.kr/board/lostark/4821/98610)
 
-[카양겔 은신 로브 택틱](https://www.inven.co.kr/board/lostark/4821/87776)
+[카양겔 은신 로브 택틱(파티원이 작성)](https://www.inven.co.kr/board/lostark/4821/87776)
 
 
 # 📢 Contact
