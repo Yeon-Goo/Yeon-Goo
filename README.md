@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=연구%20기획실🔨&fontSize=70&animation=fadeIn)
 
-안녕하세요, 게임 기획자를 꿈꾸는 최연구입니다😊
+안녕하세요, 로스트아크 기획자를 꿈꾸는 최연구입니다😊
 
 # 🛠 Skills
 
