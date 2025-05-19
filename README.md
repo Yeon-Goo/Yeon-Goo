@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=연구%20기획실🔨&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20기획실🔨&fontSize=70&animation=fadeIn)
 
 안녕하세요, 게임 기획자를 꿈꾸는 최연구입니다😊
 
@@ -20,7 +20,7 @@
 
 [모코코 전용 로스트아크의 전체 강화 흐름 정리](https://www.inven.co.kr/board/lostark/4821/98610)
 
-[카양겔 은신 로브 택틱(파티원이 작성)](https://www.inven.co.kr/board/lostark/4821/87776)
+[카양겔 은신 로브 택틱(팀원 작성)](https://www.inven.co.kr/board/lostark/4821/87776)
 
 
 # 📢 Contact
