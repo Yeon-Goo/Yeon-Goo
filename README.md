@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20기획실🔨&fontSize=70&animation=fadeIn)
 
 안녕하세요, 게임 기획자를 꿈꾸는 최연구입니다.😊
+
 아직 부족한 부분이 많지만
+
 꾸준히, 멈추지 않고 배우겠습니다.
 
 # 🛠 Skills
