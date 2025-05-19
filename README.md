@@ -18,9 +18,9 @@
 
 [[시즌2] 기공사 신속 스탯 이해 / 1치명반지 연구글](https://www.inven.co.kr/board/lostark/5344/110658?p=4&my=chuchu)
 
-[모코코 전용 로스트아크의 전체 강화 흐름 정리](https://www.inven.co.kr/board/lostark/4821/98610)
-
 [라우리엘 거울 패턴 은신 로브 택틱](https://www.inven.co.kr/board/lostark/4821/87776)
+
+[모코코 전용 로스트아크의 전체 강화 흐름 정리](https://www.inven.co.kr/board/lostark/4821/98610)
 
 [2025-02 패치 역천 너프 수치 계산](https://www.inven.co.kr/board/lostark/5344/123768)
 
