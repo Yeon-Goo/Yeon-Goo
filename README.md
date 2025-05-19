@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20기획실🔨&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20조용한%20기획실🔨&fontSize=70&animation=fadeIn)
 
 안녕하세요, 게임 기획자를 꿈꾸는 최연구입니다.😊
 
