@@ -22,6 +22,7 @@
 
 [카양겔 라우리엘 은신 로브 택틱](https://www.inven.co.kr/board/lostark/4821/87776)
 
+[2025-02 패치 역천 너프 수치 계산](https://www.inven.co.kr/board/lostark/5344/123768)
 
 # 📢 Contact
 
