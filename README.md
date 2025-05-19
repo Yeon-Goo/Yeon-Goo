@@ -20,7 +20,7 @@
 
 [모코코 전용 로스트아크의 전체 강화 흐름 정리](https://www.inven.co.kr/board/lostark/4821/98610)
 
-[카양겔 라우리엘 은신 로브 택틱](https://www.inven.co.kr/board/lostark/4821/87776)
+[카양겔 라우리엘 은신 로브 택틱 발견](https://www.inven.co.kr/board/lostark/4821/87776)
 
 [2025-02 패치 역천 너프 수치 계산](https://www.inven.co.kr/board/lostark/5344/123768)
 
