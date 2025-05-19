@@ -16,7 +16,7 @@
 
 # 🎮 Guides
 
-[기공사 신속 스탯 이해 / 1치명반지 연구글](https://www.inven.co.kr/board/lostark/5344/110658?p=4&my=chuchu)
+[[시즌2] 기공사 신속 스탯 이해 / 1치명반지 연구글](https://www.inven.co.kr/board/lostark/5344/110658?p=4&my=chuchu)
 
 [모코코 전용 로스트아크의 전체 강화 흐름 정리](https://www.inven.co.kr/board/lostark/4821/98610)
 
