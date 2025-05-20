@@ -6,7 +6,7 @@
 
 배움을 멈추지 않고 꾸준히 성장하는 기획자가 되고자 합니다.
 
-## 🛠 Skills
+# 🛠 Skills
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![C#](https://img.shields.io/badge/Csharp-512BD4?style=flat-square&logo=Csharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![ppt](https://img.shields.io/badge/PowerPoint-FF6372?style=flat-square&logo=microsoftpowerpoint&logoColor=red)
 # ⚙ Engines
@@ -15,10 +15,13 @@
 
 # 🎞 Projects
 
-[Github Link](https://github.com/Yeon-Goo/Project-HAL)
+## Project HAL
+개발 기간 : 2024.03 ~ 2024.06
+역할 : 기획 및 개발
 
 <img src="https://github.com/user-attachments/assets/b555282a-7e10-48f0-96dd-989e0d2cdcf7" width="600" height="334"/>
 
+[Github Link](https://github.com/Yeon-Goo/Project-HAL)
 
 
 [The First Foreigner](https://github.com/Yeon-Goo/Project_S)
