@@ -23,6 +23,7 @@
 
 [Github Link](https://github.com/Yeon-Goo/Project-HAL)
 
+<img2 src="https://github.com/user-attachments/assets/8d67fa45-59f3-4ac0-9aa2-ed86f64ddd90" width="600" height="334"/>
 
 [The First Foreigner](https://github.com/Yeon-Goo/Project_S)
 
