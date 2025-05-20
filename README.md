@@ -46,6 +46,8 @@
 
 <img src="https://github.com/user-attachments/assets/8d67fa45-59f3-4ac0-9aa2-ed86f64ddd90" width="600" height="380"/>
 
+<img src="https://github.com/user-attachments/assets/c0830db7-910e-46a5-8fa0-c1cb9e0e4b92" width="600" height="362"/>
+
 [The First Foreigner Repository Link](https://github.com/Yeon-Goo/Project_S)
 
 # 🎮 Guides
