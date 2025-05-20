@@ -32,7 +32,7 @@
 
 [Project HAL 후기!](https://velog.io/@valkyrie/HAL-프로젝트를-진행하며-느낀-점)
 
-## The First Foreigner
+## 2. The First Foreigner
 
 개발 기간 : 2024.09 ~ 2024.12
 
@@ -76,3 +76,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-Goo&show_icons=true&theme=radical) [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-Goo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
 # 🎮 Play History
+
+|게임|장르|정도|
+|---------|---|---|
+|수정중|ㅇㅇ|ㅇㅇ|
