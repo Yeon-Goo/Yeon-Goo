@@ -17,9 +17,8 @@
 
 [Project HAL](https://github.com/Yeon-Goo/Project-HAL)
 
-![image](https://github.com/user-attachments/assets/65745b34-2fea-411e-9424-b3776e90c54c)
+![그림1](https://github.com/user-attachments/assets/18206a5c-b6d2-4b2a-86f1-b541adb1b758)
 
-![image](https://github.com/user-attachments/assets/e585314a-e675-4fe7-a84c-d339362d0db1)
 
 
 [The First Foreigner](https://github.com/Yeon-Goo/Project_S)
