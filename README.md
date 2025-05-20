@@ -46,17 +46,19 @@
 
 <img src="https://github.com/user-attachments/assets/8d67fa45-59f3-4ac0-9aa2-ed86f64ddd90" width="600" height="380"/>
 
+[The First Foreigner Repository Link](https://github.com/Yeon-Goo/Project_S)
 
-![그림7](https://github.com/user-attachments/assets/219c3075-37df-4a63-bea7-18ef656c1f64)
+최종본 플레이 영상 ↓
+
+[![그림7](https://github.com/user-attachments/assets/219c3075-37df-4a63-bea7-18ef656c1f64)](https://youtu.be/AIy8zwr5r8M)
 
 
-
+#### Steam 출시까지 완료!
 
 <img src="https://github.com/user-attachments/assets/c0830db7-910e-46a5-8fa0-c1cb9e0e4b92" width="600" height="362"/>
 
-[The First Foreigner Repository Link](https://github.com/Yeon-Goo/Project_S)
 
-# 🎮 Guides
+# 🧩 Guides
 
 [[시즌2] 기공사 신속 스탯 이해 / 1치명반지빌드 연구글](https://www.inven.co.kr/board/lostark/5344/110658?p=4&my=chuchu)
 
@@ -74,3 +76,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-Goo&show_icons=true&theme=radical) [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-Goo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+
+# 🎮 Play History
