@@ -15,17 +15,38 @@
 
 # 🎞 Projects
 
-## Project HAL
+### Project HAL
 개발 기간 : 2024.03 ~ 2024.06
-역할 : 기획 및 개발
+
+개발 환경 : Unity / 4인 팀 개발
+
+장르 : 2D RPG
+
+역할 : 기획 및 서브 개발
+
+내용 : 카드를 모으고 강화하여 적들을 상대하는 수집형 2D RPG
 
 <img src="https://github.com/user-attachments/assets/b555282a-7e10-48f0-96dd-989e0d2cdcf7" width="600" height="334"/>
 
-[Github Link](https://github.com/Yeon-Goo/Project-HAL)
+[Project HAL Repository Link](https://github.com/Yeon-Goo/Project-HAL)
+
+[Project HAL 후기!](https://velog.io/@valkyrie/HAL-프로젝트를-진행하며-느낀-점)
+
+### The First Foreigner
+
+개발 기간 : 2024.09 ~ 2024.12
+
+개발 환경 : UE5 / 2인 개발
+
+장르 : 캐주얼 퀴즈
+
+역할 : 메인 기획 및 서브 개발
+
+내용 : 마이크를 사용하지 않고 상대가 설명하는 단어를 맞추는 퀴즈 게임
 
 <img src="https://github.com/user-attachments/assets/8d67fa45-59f3-4ac0-9aa2-ed86f64ddd90" width="600" height="380"/>
 
-[The First Foreigner](https://github.com/Yeon-Goo/Project_S)
+[The First Foreigner Repository Link](https://github.com/Yeon-Goo/Project_S)
 
 # 🎮 Guides
 
