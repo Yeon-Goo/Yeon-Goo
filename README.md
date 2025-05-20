@@ -47,7 +47,8 @@
 <img src="https://github.com/user-attachments/assets/8d67fa45-59f3-4ac0-9aa2-ed86f64ddd90" width="600" height="380"/>
 
 
-![그림6](https://github.com/user-attachments/assets/b674719f-4735-4cd4-b703-e74fc91176dd)
+![그림7](https://github.com/user-attachments/assets/219c3075-37df-4a63-bea7-18ef656c1f64)
+
 
 
 
