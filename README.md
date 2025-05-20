@@ -17,7 +17,7 @@
 
 [Project HAL](https://github.com/Yeon-Goo/Project-HAL)
 
-<img src="https://github.com/user-attachments/assets/18206a5c-b6d2-4b2a-86f1-b541adb1b758.png" width="200" height="400"/)
+<img src="https://github.com/user-attachments/assets/18206a5c-b6d2-4b2a-86f1-b541adb1b758.png" width="200" height="400"/>
 
 
 
