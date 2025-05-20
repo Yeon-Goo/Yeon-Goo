@@ -55,8 +55,6 @@
 
 #### Steam 출시까지 완료!
 
-<img src="https://github.com/user-attachments/assets/c0830db7-910e-46a5-8fa0-c1cb9e0e4b92" width="600" height="362"/>
-
 
 # 🧩 Guides
 
