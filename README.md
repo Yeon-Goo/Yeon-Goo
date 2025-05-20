@@ -50,7 +50,7 @@
 
 최종본 플레이 영상 ↓
 
-[![그림7](https://github.com/user-attachments/assets/219c3075-37df-4a63-bea7-18ef656c1f64)](https://youtu.be/AIy8zwr5r8M)
+[![그림7](https://github.com/user-attachments/assets/39ed992e-39ee-4fb9-9c11-9e7a5594972f)](https://youtu.be/AIy8zwr5r8M)
 
 
 #### Steam 출시까지 완료!
