@@ -54,7 +54,7 @@
 
 #### Steam 출시까지 완료!
 
-[Link](https://store.steampowered.com/app/3634090/The_First_Foreigner/)
+[Steam Link](https://store.steampowered.com/app/3634090/The_First_Foreigner/)
 
 # 🧩 Guides
 
