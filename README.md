@@ -51,6 +51,9 @@
 
 <img src="https://github.com/user-attachments/assets/8d67fa45-59f3-4ac0-9aa2-ed86f64ddd90" width="600" height="380"/>
 
+<details>
+  <summary>세부 내용</summary>
+  
 최종본 플레이 영상 ↓
 
 [![그림7](https://github.com/user-attachments/assets/39ed992e-39ee-4fb9-9c11-9e7a5594972f)](https://youtu.be/AIy8zwr5r8M)
@@ -60,6 +63,8 @@
 #### Steam 출시까지 완료!
 
 [Steam Link](https://store.steampowered.com/app/3634090/The_First_Foreigner/)
+
+</details>
 
 # 🧩 Guides
 
