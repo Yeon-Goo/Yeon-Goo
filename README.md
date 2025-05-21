@@ -76,6 +76,14 @@
 
 </details>
 
+# 📄 Documents
+
+![할기획서정리](https://github.com/user-attachments/assets/6a5fd9a3-9ac0-4444-9d8c-046f423dd714)
+
+![할궁수기획서정리](https://github.com/user-attachments/assets/dde6e513-a1b2-4440-99d6-14b7152444d7)
+
+![SQ기획서](https://github.com/user-attachments/assets/9457cbad-b63f-4948-a81d-dd29e6bf047c)
+
 # 🧩 Guides
 
 [[시즌2] 기공사 신속 스탯 이해 / 1치명반지빌드 연구글](https://www.inven.co.kr/board/lostark/5344/110658?p=4&my=chuchu)
@@ -87,11 +95,14 @@
 [2025-02 패치 역천 너프 수치 계산](https://www.inven.co.kr/board/lostark/5344/123768)
 
 # 🎮 Play History
+<details>
+  <summary></summary>
+  
+  |게임|장르|정도|
+  |---------|---|---|
+  |수정중|ㅇㅇ|ㅇㅇ|
 
-|게임|장르|정도|
-|---------|---|---|
-|수정중|ㅇㅇ|ㅇㅇ|
-
+</details>
 # 📢 Contact
 
 ![email](https://img.shields.io/badge/-999999?style=flat-square&logo=gmail&logoColor=##EA4335) augustinodot@naver.com
