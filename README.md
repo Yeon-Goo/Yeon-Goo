@@ -60,19 +60,19 @@
 <details>
   <summary>세부 내용</summary>
   
-1. 최종본 플레이 영상 👇
+  1. 최종본 플레이 영상 👇
+    
+     [![그림7](https://github.com/user-attachments/assets/39ed992e-39ee-4fb9-9c11-9e7a5594972f)](https://youtu.be/AIy8zwr5r8M)
 
-[![그림7](https://github.com/user-attachments/assets/39ed992e-39ee-4fb9-9c11-9e7a5594972f)](https://youtu.be/AIy8zwr5r8M)
+     Steam 출시 화면 👇
+     
+     <img src="https://github.com/user-attachments/assets/c8909f72-3fbf-4954-b83a-db9802abc2a5" width="600" height="380"/>
 
-2. Steam 출시 화면 👇
+     [Steam Link](https://store.steampowered.com/app/3634090/The_First_Foreigner/)
 
-<img src="https://github.com/user-attachments/assets/c8909f72-3fbf-4954-b83a-db9802abc2a5" width="600" height="380"/>
-
-[Steam Link](https://store.steampowered.com/app/3634090/The_First_Foreigner/)
-
-3. 리포지토리 👇
-
-[The First Foreigner Repository Link](https://github.com/Yeon-Goo/Project_S)
+     3. 리포지토리 👇
+      
+     [The First Foreigner Repository Link](https://github.com/Yeon-Goo/Project_S)
 
 </details>
 
