@@ -15,7 +15,7 @@
 
 # 🎞 Projects
 
-## Project HAL
+## 1. Project HAL
 개발 기간 : 2024.03 ~ 2024.06
 
 개발 환경 : Unity / 4인 팀 개발
