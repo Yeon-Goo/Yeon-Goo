@@ -20,7 +20,7 @@
 <img src="https://github.com/user-attachments/assets/b555282a-7e10-48f0-96dd-989e0d2cdcf7" width="600" height="334"/>
 
 <details>
-  <summary></summary>
+  <summary>세부 내용</summary>
   
 개발 기간 : 2024.03 ~ 2024.06
 
