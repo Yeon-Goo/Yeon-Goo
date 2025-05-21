@@ -32,10 +32,13 @@
 
 <details>
   <summary>세부 내용</summary>
-
-  [Project HAL Repository Link](https://github.com/Yeon-Goo/Project-HAL)
   
-  [Project HAL 후기!](https://velog.io/@valkyrie/HAL-프로젝트를-진행하며-느낀-점)
+  리포지토리 👇
+  
+  [Project HAL Repository Link](https://github.com/Yeon-Goo/Project-HAL)
+
+  프로젝트 후기
+  [Velog Link](https://velog.io/@valkyrie/HAL-프로젝트를-진행하며-느낀-점)
   
 </details>
 
@@ -56,7 +59,7 @@
 <details>
   <summary>세부 내용</summary>
   
-최종본 플레이 영상 ↓
+최종본 플레이 영상👇
 
 [![그림7](https://github.com/user-attachments/assets/39ed992e-39ee-4fb9-9c11-9e7a5594972f)](https://youtu.be/AIy8zwr5r8M)
 
@@ -65,7 +68,8 @@
 
 [Steam Link](https://store.steampowered.com/app/3634090/The_First_Foreigner/)
 
-리포지토리 ↓
+리포지토리 👇
+
 [The First Foreigner Repository Link](https://github.com/Yeon-Goo/Project_S)
 
 </details>
