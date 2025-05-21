@@ -18,7 +18,7 @@
 ## 1. Project HAL
 
 <details>
-  <summary>
+  <summary>Project HAL</summary>
 개발 기간 : 2024.03 ~ 2024.06
 
 개발 환경 : Unity / 4인 팀 개발
@@ -34,8 +34,7 @@
 [Project HAL Repository Link](https://github.com/Yeon-Goo/Project-HAL)
 
 [Project HAL 후기!](https://velog.io/@valkyrie/HAL-프로젝트를-진행하며-느낀-점)
-
-</summary>
+</details>
 ## 2. The First Foreigner
 
 개발 기간 : 2024.09 ~ 2024.12
