@@ -20,24 +20,24 @@
 
 개발 기간 : 2024.03 ~ 2024.06
 
+개발 환경 : Unity / 4인 팀 개발  
+
+장르 : 2D RPG
+
+역할 : 기획 및 개발
+
+내용 : 카드를 모으고 강화하여 적들을 상대하는 수집형 2D RPG
+
+<img src="https://github.com/user-attachments/assets/b555282a-7e10-48f0-96dd-989e0d2cdcf7" width="600" height="334"/>
+  
 <details>
   <summary>세부 내용</summary>
 
-  1. 개발 환경 : Unity / 4인 팀 개발  
-
-  2. 장르 : 2D RPG
-
-  3. 역할 : 기획 및 개발
-
-  4. 내용 : 카드를 모으고 강화하여 적들을 상대하는 수집형 2D RPG
-
-  <img src="https://github.com/user-attachments/assets/b555282a-7e10-48f0-96dd-989e0d2cdcf7" width="600" height="334"/>
-  
-  5. 프로젝트 리포지토리 - [Repo Link](https://github.com/Yeon-Goo/Project-HAL)
+  1. 프로젝트 리포지토리 - [Repo Link](https://github.com/Yeon-Goo/Project-HAL)
 
   <img src="https://github.com/user-attachments/assets/5c392b5f-4da5-477e-bda1-44a096338e7d" width="400" height="283"/>  
   
-  6. 프로젝트 후기 - [velog Link](https://velog.io/@valkyrie/HAL-프로젝트를-진행하며-느낀-점)
+  2. 프로젝트 후기 - [velog Link](https://velog.io/@valkyrie/HAL-프로젝트를-진행하며-느낀-점)
 
   <img src="https://github.com/user-attachments/assets/c134b58e-112f-4978-b541-550b61903ec2" width="400" height="276"/>
   
@@ -47,27 +47,26 @@
 
 개발 기간 : 2024.09 ~ 2024.12
 
+개발 환경 : UE5 / 2인 개발
+
+장르 : 캐주얼 퀴즈
+
+역할 : 메인 기획 및 서브 개발
+
+내용 : 마이크를 사용하지 않고 상대가 설명하는 단어를 맞추는 퀴즈 게임
+
+  <img src="https://github.com/user-attachments/assets/8d67fa45-59f3-4ac0-9aa2-ed86f64ddd90" width="600" height="380"/>
 
 <details>
   <summary>세부 내용  </summary>
 
-  1. 개발 환경 : UE5 / 2인 개발
-
-  2. 장르 : 캐주얼 퀴즈
-
-  3. 역할 : 메인 기획 및 서브 개발
-
-  4. 내용 : 마이크를 사용하지 않고 상대가 설명하는 단어를 맞추는 퀴즈 게임
-
-  <img src="https://github.com/user-attachments/assets/8d67fa45-59f3-4ac0-9aa2-ed86f64ddd90" width="600" height="380"/>
-
-  5. 최종본 플레이 영상 👇
+  1. 최종본 플레이 영상 👇
     
   [![그림7](https://github.com/user-attachments/assets/39ed992e-39ee-4fb9-9c11-9e7a5594972f)](https://youtu.be/AIy8zwr5r8M)
 
-  6. Steam 상점 페이지 - [Steam Link](https://store.steampowered.com/app/3634090/The_First_Foreigner/)
+  2. Steam 상점 페이지 - [Steam Link](https://store.steampowered.com/app/3634090/The_First_Foreigner/)
     
-  7. 프로젝트 리포지토리 - [Repo Link](https://github.com/Yeon-Goo/Project_S)
+  3. 프로젝트 리포지토리 - [Repo Link](https://github.com/Yeon-Goo/Project_S)
 
   
 </details>
