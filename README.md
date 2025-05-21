@@ -39,7 +39,7 @@
 
   <img src="https://github.com/user-attachments/assets/5c392b5f-4da5-477e-bda1-44a096338e7d" width="400" height="283"/>  
   
-  <br>
+  <br>  
   
   2. 프로젝트 후기 - [Velog Link](https://velog.io/@valkyrie/HAL-프로젝트를-진행하며-느낀-점)
 
