@@ -66,7 +66,7 @@
 
   2. Steam 출시 화면 - [Steam Link](https://store.steampowered.com/app/3634090/The_First_Foreigner/)
      
-  <img src="https://github.com/user-attachments/assets/c8909f72-3fbf-4954-b83a-db9802abc2a5" width="575" height="364"/>
+  <img src="https://github.com/user-attachments/assets/c8909f72-3fbf-4954-b83a-db9802abc2a5" width="565" height="360"/>
 
   3. 프로젝트 리포지토리 - [Repo Link](https://github.com/Yeon-Goo/Project_S)
 
