@@ -21,7 +21,7 @@
 개발 기간 : 2024.03 ~ 2024.06
 
 <details>
-  <summary>세부 내용</summary>
+  <summary>세부 내용<br></summary>
 
   개발 환경 : Unity / 4인 팀 개발
 
