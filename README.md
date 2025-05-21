@@ -37,7 +37,8 @@
   
   [Project HAL Repository Link](https://github.com/Yeon-Goo/Project-HAL)
 
-  프로젝트 후기
+  프로젝트 후기👇
+  
   [Velog Link](https://velog.io/@valkyrie/HAL-프로젝트를-진행하며-느낀-점)
   
 </details>
