@@ -16,6 +16,9 @@
 # 🎞 Projects
 
 ## 1. Project HAL
+
+<details>
+  <summary>
 개발 기간 : 2024.03 ~ 2024.06
 
 개발 환경 : Unity / 4인 팀 개발
@@ -32,6 +35,7 @@
 
 [Project HAL 후기!](https://velog.io/@valkyrie/HAL-프로젝트를-진행하며-느낀-점)
 
+</summary>
 ## 2. The First Foreigner
 
 개발 기간 : 2024.09 ~ 2024.12
