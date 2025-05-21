@@ -70,6 +70,9 @@
 
   3. 프로젝트 리포지토리 - [Repo Link](https://github.com/Yeon-Goo/Project_S)
 
+  <img src="https://github.com/user-attachments/assets/ec87ae14-e38f-4edd-be12-157886929249" width="565" height="349"/>
+
+  
 </details>
 
 # 📄 Documents
