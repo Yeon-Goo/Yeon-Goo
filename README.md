@@ -33,13 +33,9 @@
 <details>
   <summary>세부 내용</summary>
   
-  1. 리포지토리
-  
-  [Project HAL Repository Link](https://github.com/Yeon-Goo/Project-HAL)
+  1. 프로젝트 리포지토리 - [Repo Link](https://github.com/Yeon-Goo/Project-HAL)
 
-  2. 프로젝트 후기
-  
-  [Velog Link](https://velog.io/@valkyrie/HAL-프로젝트를-진행하며-느낀-점)
+  2. 프로젝트 후기 - [Velog Link](https://velog.io/@valkyrie/HAL-프로젝트를-진행하며-느낀-점)
   
 </details>
 
@@ -70,9 +66,7 @@
 
   [Steam Link](https://store.steampowered.com/app/3634090/The_First_Foreigner/)
 
-  3. 리포지토리
-
-  [The First Foreigner Repository Link](https://github.com/Yeon-Goo/Project_S)
+  3. 프로젝트 리포지토리 - [Repo Link](https://github.com/Yeon-Goo/Project_S)
 
 </details>
 
