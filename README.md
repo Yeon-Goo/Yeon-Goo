@@ -32,7 +32,6 @@
 
 <details>
   <summary>세부 내용</summary>
-  [Project_HAL_시스템_기획서.pptx](https://github.com/user-attachments/files/20368648/1._Project_HAL_._.-.pptx)
 
   [Project HAL Repository Link](https://github.com/Yeon-Goo/Project-HAL)
   
