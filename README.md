@@ -32,17 +32,12 @@
   내용 : 카드를 모으고 강화하여 적들을 상대하는 수집형 2D RPG
 
   <img src="https://github.com/user-attachments/assets/b555282a-7e10-48f0-96dd-989e0d2cdcf7" width="600" height="334"/>
-
-
-  <br>
   
-  1. 프로젝트 리포지토리 - [Repo Link](https://github.com/Yeon-Goo/Project-HAL)
+  프로젝트 리포지토리 - [Repo Link](https://github.com/Yeon-Goo/Project-HAL)
 
   <img src="https://github.com/user-attachments/assets/5c392b5f-4da5-477e-bda1-44a096338e7d" width="400" height="283"/>  
   
-  <br>  
-  
-  2. 프로젝트 후기 - [velog Link](https://velog.io/@valkyrie/HAL-프로젝트를-진행하며-느낀-점)
+  프로젝트 후기 - [velog Link](https://velog.io/@valkyrie/HAL-프로젝트를-진행하며-느낀-점)
 
   <img src="https://github.com/user-attachments/assets/c134b58e-112f-4978-b541-550b61903ec2" width="400" height="276"/>
   
