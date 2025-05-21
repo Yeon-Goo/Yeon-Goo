@@ -74,14 +74,16 @@
 
 # 📄 Documents
 
-#### Project HAL 시스템 기획서  [pdf Download](https://github.com/user-attachments/files/20374289/1._Project_HAL_._.-.pdf)
+#### Project HAL 시스템 기획서 - [pdf Download](https://github.com/user-attachments/files/20374289/1._Project_HAL_._.-.pdf)
 
 <img src="https://github.com/user-attachments/assets/6a5fd9a3-9ac0-4444-9d8c-046f423dd714" width="1000" height="175"/>
 
-#### Project HAL 궁수 캐릭터 기획서  
+#### Project HAL 궁수 캐릭터 기획서 - [pdf Download](https://github.com/user-attachments/files/20374308/2._Project_HAL_._._.-.pdf)
+
 <img src="https://github.com/user-attachments/assets/dde6e513-a1b2-4440-99d6-14b7152444d7" width="1000" height="175"/>
 
-#### Project SQ 초기 기획서
+#### Project SQ 초기 기획서 - [pdf Download](https://github.com/user-attachments/files/20374364/3._Project_SQ_._.-.pdf)
+
 <img src="https://github.com/user-attachments/assets/9457cbad-b63f-4948-a81d-dd29e6bf047c" width="1000" height="175"/>
 
 
