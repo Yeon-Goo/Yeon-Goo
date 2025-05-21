@@ -66,17 +66,18 @@
 
 [2025-02 패치 역천 너프 수치 계산](https://www.inven.co.kr/board/lostark/5344/123768)
 
+# 🎮 Play History
+
+|게임|장르|정도|
+|---------|---|---|
+|수정중|ㅇㅇ|ㅇㅇ|
+
 # 📢 Contact
 
 ![email](https://img.shields.io/badge/-999999?style=flat-square&logo=gmail&logoColor=##EA4335) augustinodot@naver.com
 
 ![discord](https://img.shields.io/badge/-000000?style=flat-square&logo=discord&logoColor=#5865F2) valkyrie_9
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-Goo&show_icons=true&theme=radical) [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-Goo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
-# 🎮 Play History
 
-|게임|장르|정도|
-|---------|---|---|
-|수정중|ㅇㅇ|ㅇㅇ|
