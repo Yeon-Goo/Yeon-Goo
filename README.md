@@ -74,7 +74,7 @@
 
 # 📄 Documents
 
-#### Project HAL 시스템 기획서  [1. 최연구_Project_HAL_시스템_기획서 - 최종본.pdf](https://github.com/user-attachments/files/20374289/1._Project_HAL_._.-.pdf)
+#### Project HAL 시스템 기획서  [pdf File](https://github.com/user-attachments/files/20374289/1._Project_HAL_._.-.pdf)
 
 <img src="https://github.com/user-attachments/assets/6a5fd9a3-9ac0-4444-9d8c-046f423dd714" width="1000" height="175"/>
 
