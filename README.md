@@ -19,10 +19,6 @@
 
 <img src="https://github.com/user-attachments/assets/b555282a-7e10-48f0-96dd-989e0d2cdcf7" width="600" height="334"/>
 
-<details>
-  <summary>세부 내용</summary>
-
-
 개발 기간 : 2024.03 ~ 2024.06
 
 개발 환경 : Unity / 4인 팀 개발
@@ -33,6 +29,9 @@
 
 내용 : 카드를 모으고 강화하여 적들을 상대하는 수집형 2D RPG
 
+<details>
+  <summary>세부 내용</summary>
+  
 [Project HAL Repository Link](https://github.com/Yeon-Goo/Project-HAL)
 
 [Project HAL 후기!](https://velog.io/@valkyrie/HAL-프로젝트를-진행하며-느낀-점)
