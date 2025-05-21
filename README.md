@@ -60,7 +60,7 @@
 <details>
   <summary>세부 내용</summary>
   
-최종본 플레이 영상👇
+최종본 플레이 영상 👇
 
 [![그림7](https://github.com/user-attachments/assets/39ed992e-39ee-4fb9-9c11-9e7a5594972f)](https://youtu.be/AIy8zwr5r8M)
 
