@@ -10,7 +10,7 @@
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=Csharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) 
 
-![Unity](https://img.shields.io/badge/Unity-DDDDDD?style=flat-square&logo=unity&logoColor=black) ![UE](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![ppt](https://img.shields.io/badge/PowerPoint-FF6372?style=flat-square&logo=microsoftpowerpoint&logoColor=red)
 
