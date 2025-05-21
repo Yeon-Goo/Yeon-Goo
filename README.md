@@ -99,7 +99,7 @@
 
 # 🎮 Play History
 <details>
-  <summary>Open</summary>
+  <summary>열기</summary>
   
   |게임|장르|정도|
   |---------|---|---|
