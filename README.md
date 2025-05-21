@@ -78,7 +78,7 @@
 
 # 📄 Documents
 
-![할기획서정리](https://github.com/user-attachments/assets/6a5fd9a3-9ac0-4444-9d8c-046f423dd714)
+<img src="https://github.com/user-attachments/assets/6a5fd9a3-9ac0-4444-9d8c-046f423dd714" width="800" height="140"/>
 
 ![할궁수기획서정리](https://github.com/user-attachments/assets/dde6e513-a1b2-4440-99d6-14b7152444d7)
 
