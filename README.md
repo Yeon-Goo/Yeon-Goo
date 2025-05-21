@@ -23,7 +23,7 @@
 <details>
   <summary>세부 내용<br></summary>
 
-  개발 환경 : Unity / 4인 팀 개발
+  개발 환경 : Unity / 4인 팀 개발  
 
   장르 : 2D RPG
 
