@@ -33,9 +33,9 @@
 <details>
   <summary>세부 내용</summary>
   
-[Project HAL Repository Link](https://github.com/Yeon-Goo/Project-HAL)
-
-[Project HAL 후기!](https://velog.io/@valkyrie/HAL-프로젝트를-진행하며-느낀-점)
+  
+  [Project HAL Repository Link](https://github.com/Yeon-Goo/Project-HAL)
+  [Project HAL 후기!](https://velog.io/@valkyrie/HAL-프로젝트를-진행하며-느낀-점)
 </details>
 
 ## 2. The First Foreigner
