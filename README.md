@@ -50,6 +50,7 @@
 
 <details>
   <summary>세부 내용  </summary>
+
   개발 환경 : UE5 / 2인 개발
 
   장르 : 캐주얼 퀴즈
