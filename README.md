@@ -33,8 +33,8 @@
 <details>
   <summary>세부 내용</summary>
   
-  리포지토리 👇
-  
+  리포지토리 
+  👇
   [Project HAL Repository Link](https://github.com/Yeon-Goo/Project-HAL)
 
   프로젝트 후기👇
