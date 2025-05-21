@@ -47,19 +47,19 @@
 
 개발 기간 : 2024.09 ~ 2024.12
 
-개발 환경 : UE5 / 2인 개발
-
-장르 : 캐주얼 퀴즈
-
-역할 : 메인 기획 및 서브 개발
-
-내용 : 마이크를 사용하지 않고 상대가 설명하는 단어를 맞추는 퀴즈 게임
-
-<img src="https://github.com/user-attachments/assets/8d67fa45-59f3-4ac0-9aa2-ed86f64ddd90" width="600" height="380"/>
 
 <details>
-  <summary>세부 내용</summary>
-  
+  <summary>세부 내용  </summary>
+  개발 환경 : UE5 / 2인 개발
+
+  장르 : 캐주얼 퀴즈
+
+  역할 : 메인 기획 및 서브 개발
+
+  내용 : 마이크를 사용하지 않고 상대가 설명하는 단어를 맞추는 퀴즈 게임
+
+  <img src="https://github.com/user-attachments/assets/8d67fa45-59f3-4ac0-9aa2-ed86f64ddd90" width="600" height="380"/>
+
   1. 최종본 플레이 영상 👇
     
   [![그림7](https://github.com/user-attachments/assets/39ed992e-39ee-4fb9-9c11-9e7a5594972f)](https://youtu.be/AIy8zwr5r8M)
