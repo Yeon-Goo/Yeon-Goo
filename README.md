@@ -32,7 +32,9 @@
 
 <details>
   <summary>세부 내용</summary>
+  
   <br>
+  
   1. 프로젝트 리포지토리 - [Repo Link](https://github.com/Yeon-Goo/Project-HAL)
 
   <img src="https://github.com/user-attachments/assets/5c392b5f-4da5-477e-bda1-44a096338e7d" width="400" height="283"/>
