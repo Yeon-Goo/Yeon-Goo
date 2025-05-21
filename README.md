@@ -63,6 +63,7 @@
 [The First Foreigner Repository Link](https://github.com/Yeon-Goo/Project_S)
 
 #### Steam 출시까지 완료!
+<img src="https://github.com/user-attachments/assets/c8909f72-3fbf-4954-b83a-db9802abc2a5" width="600" height="380"/>
 
 [Steam Link](https://store.steampowered.com/app/3634090/The_First_Foreigner/)
 
