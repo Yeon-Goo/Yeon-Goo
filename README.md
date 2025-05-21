@@ -65,7 +65,7 @@
     
   [![그림7](https://github.com/user-attachments/assets/39ed992e-39ee-4fb9-9c11-9e7a5594972f)](https://youtu.be/AIy8zwr5r8M)
 
-  6. Steam 출시 - [Steam Link](https://store.steampowered.com/app/3634090/The_First_Foreigner/)
+  6. Steam 상점 페이지 - [Steam Link](https://store.steampowered.com/app/3634090/The_First_Foreigner/)
     
   7. 프로젝트 리포지토리 - [Repo Link](https://github.com/Yeon-Goo/Project_S)
 
