@@ -155,12 +155,12 @@
 | Rainbow Six Siege              |
 | Undertale                      |
 | Palworld                       |
-
+| MapleStory                     |
 </details>
 
 <details>
-  <summary>4티어</summary>
-  4티어에는 깊게 하지 않은 게임들을 배치했습니다. 게임이 별로라는 이야기가 절대 아닙니다..
+  <summary>Others</summary>
+  이곳은 해봤던 게임 중 생각나는 게임을 최대한 배치했습니다. 게임이 별로라는 이야기가 절대 아닙니다..
 
 |         &nbsp;       |                  |                |               |          |
 |----------------|-------------------|-----------------|----------------|-----------|
@@ -169,7 +169,7 @@
 | 명조: 워더링 웨이브 | Cult of the Lamb  | A Way Out       | 레이디버그     | 아빠와나   |
 | 마비노기 모바일   | DJMAX RESPECT V   | Satisfactory    | 쿠키런         |           |
 | 쿠키런 킹덤     | Feign             | Once Human      | 팔라독         |           |
-| 클래시 로얄     | Goose Goose Duck  | 메이플스토리    | 템플런         |           |
+| 클래시 로얄     | Goose Goose Duck  | 아스팔트 시리즈    | 템플런         |           |
 | 60 Seconds     | Half-Life: Alyx   | 크레이지아케이드 | Subway Surfer   |           |
 | 귀귀살전        | Hollow Knight     | 카트라이더      | 놈             |           |
 | 얼불춤          | Human Fall Flat   | 에어라이더      | 슈퍼액션히어로  |           |
