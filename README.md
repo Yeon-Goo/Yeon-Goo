@@ -194,7 +194,7 @@
 | Super Smash Bros.              |
 | 커비 시리즈                     |
 | Slay the Spire                 |
-| Spelunky&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  |
+| Spelunky&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | 세븐나이츠                      |
 | Rainbow Six Siege              |
 | Undertale                      |
