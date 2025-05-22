@@ -134,6 +134,7 @@
 | League of Legends              | 많은 사람이 하지만.. 좋은 게임인지는 의심되는 게임 / 최적화는 최고 |
 | Minecraft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 최근에 수면 브금으로 자주 활용함 / 샌드박스 게임의 특[시즌2] 기공사 신속 스탯 이해 / 1치명반지빌드 연구글](https://www.inven.co.kr/board/lostark/5344/110658?p=4&my=chuchu)
 
+</details>
 
 <details>
   <summary>3티어</summary>
