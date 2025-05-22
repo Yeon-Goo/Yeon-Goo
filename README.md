@@ -116,7 +116,7 @@
 | PUBG              | 구식 PC방들을 전부 리모델링 시켜버린 구세주. 배틀로얄의 강점이 잘 녹아있는 게임. 또한 게임을 크게 작품과 스포츠로 구분하면, 스포츠 장르 중 제일 기회가 공평한 게임이 아닐까? |
 | ELDEN RING        | 성장의 개념이 강조된 꽉 찬 오픈월드 게임. 캐릭터는 물론이고 유저의 성장이 게임의 큰 비중을 차지하며 소울류의 매운 맛이 좀 덜해서 좋았음 |
 | 젤다: 야생의 숨결  | 활용의 개념이 강조된 꽉 찬 오픈월드 게임. 오브젝트 간 상호작용이 굉장히 다양하며, 이를 통해 유저에게 자유도를 제공함 |
-| OverCooked&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 명작이라고 보기엔 애매한 부분이 있지만 도파민 수치만 놓고 보면 탑티어인 게임. <br>오프라인에서 친구들과 같이 할 때가 최고점 |
+| OverCooked&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 인생작이라고 보기엔 애매한 부분이 있지만 도파민 수치만 놓고 보면 탑티어인 게임. <br>오프라인에서 친구들과 같이 할 때가 최고점 |
 
 </details>
 
@@ -125,18 +125,39 @@
   
   | 게임              | 느낀점 |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| OverWatch           |  |
-| Monster Hunter: World          |  |
-| Sid Meier's Civilization VI     |  |
-| 야생의 땅: 듀랑고           |  |
-| Fall Guys              |  |
-| Beat Saber        |  |
-| League of Legends  |  |
+| Starcraft                      | 어린 시절을 책임졌던 게임. 게임의 e-스포츠로서의 역할을 제대로 이해하게 해줌. |
+| Monster Hunter: World          | 로아를 하는데 몬헌을 안해? 해서 시작한 게임. 몬헌이 훨씬 근본? 있다고 느껴졌으며 무기 별 특색이 잘 나타나있다고 생각했음. 무기별 밸런스는 논외 |
+| Sid Meier's Civilization VI    | 유명한 악마의 게임. 중간중간 밥을 먹어야 한다는 것이 큰 문제 |
+| 야생의 땅: 듀랑고               | 지금 보면 여러 방면에서 부족하다고 느끼겠지만, 당시 부족을 키우던 재미는 잊을 수 없음. |
+| Fall Guys                      | 초등학교, 중학교 수련회가 게임으로 각색된 버전. 아기자기한 캐릭터로 잘 구현됨 |
+| Beat Saber                     | 고해상도 그래픽을 포기함으로써 오히려 더 화려한 시각적 경험을 제공함. <br>당시 타 VR 게임들과 다른 특징으로 굉장했던 아이디어라고 생각함 |
+| League of Legends              | 많은 사람이 하지만.. 좋은 게임인지는 의심되는 게임 / 최적화는 최고 |
 | Minecraft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  |
-| Factorio | |
-| We Were Here | |
+| Factorio                       | 컴퓨터공학과 필수 교양 게임 / 자동화의 재미를 깨우치게 되는 계기 |
+| We Were Here                   | 2인 방탈출을 게임으로 각색한 버전. 독창적인 기믹도 많았고 협동 게임의 특징도 잘 살림 |
 
 </details>
+
+<details>
+  <summary>3티어</summary>
+  
+  | 게임              |
+|--------------------|
+| OverWatch                      |
+| Super Mario Odyssey            |
+| Tekken 7, 8                    |
+| Apex 레전드                    |
+| Super Smash Bros.              |
+| 커비 시리즈                     |
+| Slay the Spire                 |
+| Spelunky&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  |
+| 세븐나이츠                      |
+| Rainbow Six Siege              |
+| Undertale                      |
+| Palworld                       |
+
+</details>
+
 
 
 
