@@ -132,7 +132,9 @@
 | Fall Guys                      | 초등학교, 중학교 수련회가 게임으로 각색된 버전. 아기자기한 캐릭터로 잘 구현됨 |
 | Beat Saber                     | 고해상도 그래픽을 포기함으로써 오히려 더 화려한 시각적 경험을 제공함. <br>당시 타 VR 게임들과 다른 특징으로 굉장했던 아이디어라고 생각함 |
 | League of Legends              | 많은 사람이 하지만.. 좋은 게임인지는 의심되는 게임 / 최적화는 최고 |
-| Minecraft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 최근에 수면 브금으로 자주 활용함 / 샌드박스 게임의 특[시즌2] 기공사 신속 스탯 이해 / 1치명반지빌드 연구글](https://www.inven.co.kr/board/lostark/5344/110658?p=4&my=chuchu)
+| Minecraft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 최근에 수면 브금으로 자주 활용함 / 샌드박스 게임의 자유도가 제대로 느껴지는 게임 |
+| Factorio                       | 컴퓨터공학과 필수 교양 게임. 자동화의 재미를 알게 해 줌 |
+| We Were Here                   | 2인 방탈출을 게임으로 각색한 버전. 독창적인 기믹도 꽤 있었고 이를 활용한 레벨 디자인이 인상적이었음. |
 
 </details>
 
@@ -153,6 +155,27 @@
 | Rainbow Six Siege              |
 | Undertale                      |
 | Palworld                       |
+
+</details>
+
+<details>
+  <summary>4티어</summary>
+
+| A               | B                 | C               | D              | E         |
+|----------------|-------------------|-----------------|----------------|-----------|
+| 서든어택        | Bloons TD 6       | Stardew Valley  | 앵그리버드     | 후레쉬맨   |
+| 버블파이터      | Core Keeper       | Undertale       | 제트팩 조이라이더 | 박스헤드   |
+| 명조: 워더링 웨이브 | Cult of the Lamb  | A Way Out       | 레이디버그     | 아빠와나   |
+| 마비노기 모바일   | DJMAX RESPECT V   | Satisfactory    | 쿠키런         |           |
+| 쿠키런 킹덤     | Feign             | Once Human      | 팔라독         |           |
+| 클래시 로얄     | Goose Goose Duck  | 메이플스토리    | 템플런         |           |
+| 60 Seconds     | Half-Life: Alyx   | 크레이지아케이드 | 서브웨이 서퍼   |           |
+| 귀귀살전        | Hollow Knight     | 카트라이더      | 놈             |           |
+| 얼불춤          | Human Fall Flat   | 에어라이더      | 슈퍼액션히어로  |           |
+| 이터널 리턴     | Lethal Company    | 소울나이트      | 전쟁시대       |           |
+| Agrou          | Project Winter    | 1945 Strikers   | 나루토vs블리치 |           |
+
+
 
 </details>
 
