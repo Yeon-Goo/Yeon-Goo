@@ -161,7 +161,7 @@
 <details>
   <summary>4티어</summary>
 
-| A               | B                 | C               | D              | E         |
+|                |                  |                |               |          |
 |----------------|-------------------|-----------------|----------------|-----------|
 | 서든어택        | Bloons TD 6       | Stardew Valley  | 앵그리버드     | 후레쉬맨   |
 | 버블파이터      | Core Keeper       | Undertale       | 제트팩 조이라이더 | 박스헤드   |
@@ -169,7 +169,7 @@
 | 마비노기 모바일   | DJMAX RESPECT V   | Satisfactory    | 쿠키런         |           |
 | 쿠키런 킹덤     | Feign             | Once Human      | 팔라독         |           |
 | 클래시 로얄     | Goose Goose Duck  | 메이플스토리    | 템플런         |           |
-| 60 Seconds     | Half-Life: Alyx   | 크레이지아케이드 | 서브웨이 서퍼   |           |
+| 60 Seconds     | Half-Life: Alyx   | 크레이지아케이드 | Subway Surfer   |           |
 | 귀귀살전        | Hollow Knight     | 카트라이더      | 놈             |           |
 | 얼불춤          | Human Fall Flat   | 에어라이더      | 슈퍼액션히어로  |           |
 | 이터널 리턴     | Lethal Company    | 소울나이트      | 전쟁시대       |           |
