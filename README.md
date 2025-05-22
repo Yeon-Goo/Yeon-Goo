@@ -120,6 +120,26 @@
 
 </details>
 
+<details>
+  <summary>2티어</summary>
+  
+  | 게임              | 느낀점 |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| OverWatch           |  |
+| Monster Hunter: World          |  |
+| Sid Meier's Civilization VI     |  |
+| 야생의 땅: 듀랑고           |  |
+| Fall Guys              |  |
+| Beat Saber        |  |
+| League of Legends  |  |
+| Minecraft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  |
+| Factorio | |
+| We Were Here | |
+
+</details>
+
+
+
 # 📢 Contact
 
 ![email](https://img.shields.io/badge/-999999?style=flat-square&logo=gmail&logoColor=##EA4335) augustinodot@naver.com
