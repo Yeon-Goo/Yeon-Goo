@@ -195,8 +195,6 @@
 
 # 📢 Contact
 
-제 연락처입니다.
-
 ![email](https://img.shields.io/badge/-999999?style=flat-square&logo=gmail&logoColor=##EA4335) augustinodot@naver.com
 
 ![discord](https://img.shields.io/badge/-000000?style=flat-square&logo=discord&logoColor=#5865F2) valkyrie_9
