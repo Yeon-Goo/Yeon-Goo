@@ -26,7 +26,7 @@
 
 역할 : 기획 및 프로그래밍
 
-내용 : 카드를 모으고 강화하여 적들을 상대하는 수집형 2D RPG
+컨셉 : 카드를 모으고 강화하여 적들을 상대하는 수집형 2D RPG
 
 <img src="https://github.com/user-attachments/assets/b555282a-7e10-48f0-96dd-989e0d2cdcf7" width="600" height="334"/>
   
@@ -53,7 +53,7 @@
 
 역할 : 기획 및 프로그래밍
 
-내용 : 마이크를 사용하지 않고 상대가 설명하는 단어를 맞추는 퀴즈 게임
+컨셉 : 마이크를 사용하지 않고 상대가 설명하는 단어를 맞추는 퀴즈 게임
 
   <img src="https://github.com/user-attachments/assets/8d67fa45-59f3-4ac0-9aa2-ed86f64ddd90" width="600" height="380"/>
 
