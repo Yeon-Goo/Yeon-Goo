@@ -73,6 +73,8 @@
 
 # 📄 Documents
 
+작성했던 문서들을 정리한 공간입니다. 프로젝트와 관련된 문서를 우선적으로 배치하였습니다.
+
 #### Project HAL 시스템 기획서 - [pdf Download](https://github.com/user-attachments/files/20374289/1._Project_HAL_._.-.pdf)
 
 <img src="https://github.com/user-attachments/assets/6a5fd9a3-9ac0-4444-9d8c-046f423dd714" width="1000" height="175"/>
