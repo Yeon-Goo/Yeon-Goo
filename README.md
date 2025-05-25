@@ -35,7 +35,7 @@
 <img src="https://github.com/user-attachments/assets/b555282a-7e10-48f0-96dd-989e0d2cdcf7" width="600" height="334"/>
   
 <details>
-  <summary>세부 내용</summary>
+  <summary>추가 정보</summary>
     
   <br>1. 프로젝트 리포지토리 - [Repo Link](https://github.com/Yeon-Goo/Project-HAL)
 
@@ -64,7 +64,7 @@
   <img src="https://github.com/user-attachments/assets/8d67fa45-59f3-4ac0-9aa2-ed86f64ddd90" width="600" height="380"/>
 
 <details>
-  <summary>세부 내용  </summary>
+  <summary>추가 정보  </summary>
 
   <br>1. 최종본 플레이 영상 👇
     
