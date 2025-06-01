@@ -65,7 +65,7 @@
 
 > 우주하마님 플레이 영상
 
-[![플레이 영상](https://img.youtube.com/vi/lpUpMxbTpX4/hqdefault.jpg)](https://www.youtube.com/watch?v=lpUpMxbTpX4&ab_channel=%EC%9A%B0%EC%A3%BC%ED%95%98%EB%A7%88)
+[![플레이 영상](https://img.youtube.com/vi/lpUpMxbTpX4/hqdefault.jpg)](https://youtu.be/lpUpMxbTpX4?si=OX7T4Bgteu2T7eXT)
 
 
 <details>
