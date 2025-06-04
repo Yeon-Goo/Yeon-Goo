@@ -84,6 +84,11 @@
 
 작성했던 문서들을 정리한 공간입니다. 프로젝트와 관련된 문서를 우선적으로 배치하였습니다.
 
+#### 로스트아크 반격 시스템 창작 기획서 - [pdf Download](https://github.com/user-attachments/files/20594014/1._._._._._.pdf)
+
+<img src="https://github.com/user-attachments/assets/71a5b746-b79b-42b0-bdc6-e35a98819959" width="1000" height="175"/>
+
+
 #### Project HAL 시스템 기획서 - [pdf Download](https://github.com/user-attachments/files/20374289/1._Project_HAL_._.-.pdf)
 
 <img src="https://github.com/user-attachments/assets/6a5fd9a3-9ac0-4444-9d8c-046f423dd714" width="1000" height="175"/>
