@@ -76,8 +76,6 @@
   [![그림7](https://github.com/user-attachments/assets/39ed992e-39ee-4fb9-9c11-9e7a5594972f)](https://youtu.be/AIy8zwr5r8M)
 
   <br>2. Steam 상점 페이지 - [Steam Link](https://store.steampowered.com/app/3634090/The_First_Foreigner/)
-    
-  <br>3. 프로젝트 리포지토리 - [Repo Link](https://github.com/Yeon-Goo/Project_S)
 
   
 </details>
