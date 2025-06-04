@@ -82,7 +82,7 @@
 
 # 📄 Documents
 
-작성했던 문서들을 정리한 공간입니다. 프로젝트와 관련된 문서를 우선적으로 배치하였습니다.
+작성했던 문서들을 정리한 공간입니다.
 
 #### 로스트아크 반격 시스템 창작 기획서 - [pdf Download](https://github.com/user-attachments/files/20594014/1._._._._._.pdf)
 
