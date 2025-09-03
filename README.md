@@ -61,7 +61,7 @@
 
 컨셉 : 마이크를 사용하지 않고 상대가 설명하는 단어를 맞추는 퀴즈 게임
 
-  <img src="https://github.com/user-attachments/assets/d762e752-2333-4c79-8e3a-bef65bc5dfa6" width="600" height="450"/>
+  <img src="https://github.com/user-attachments/assets/d762e752-2333-4c79-8e3a-bef65bc5dfa6" width="600" height="550"/>
 
 > 우주하마님 플레이 영상
 
