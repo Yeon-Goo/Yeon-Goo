@@ -69,7 +69,7 @@ _Office
 
   <img src="https://github.com/user-attachments/assets/8d67fa45-59f3-4ac0-9aa2-ed86f64ddd90" width="600" height="380"/>
   
-> 우주하마님 플레이 영상
+> 우주하마님 플레이 영상 (썸네일 클릭 시 이동)
 
 [![플레이 영상](https://img.youtube.com/vi/lpUpMxbTpX4/hqdefault.jpg)](https://youtu.be/lpUpMxbTpX4?si=OX7T4Bgteu2T7eXT)
 
