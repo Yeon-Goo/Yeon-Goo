@@ -46,7 +46,7 @@
   
 </details>
 
-## 2. The First Foreigner (Steam 출시 !)
+## 2. The First Foreigner (Steam 출시됐습니다!)
 
 개발 기간 : 2024.09 ~ 2024.12
 
